@@ -19,8 +19,10 @@ namespace Game
 		bool IsGameOver() { return false; }
 
 	private:
+		void CreateObstacle();
 		void CreatePlayer();
 		GameEngine::Entity* m_player;
+		GameEngine::Entity* m_player_two;
 	};
 }
 
