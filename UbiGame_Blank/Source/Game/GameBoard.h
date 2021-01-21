@@ -21,8 +21,13 @@ namespace Game
 	private:
 		void CreateObstacle();
 		void CreatePlayer();
+		void CreateBall();
+		int a;
 		GameEngine::Entity* m_player;
 		GameEngine::Entity* m_player_two;
+		GameEngine::Entity* ball;
+		GameEngine::Entity* border;
+		GameEngine::Entity* border2;
 	};
 }
 

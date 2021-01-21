@@ -4,8 +4,12 @@
     "\\UbiGame_Blank",
     "\\UbiGame_Blank\\Source",
     "\\UbiGame_Blank\\Source\\GameEngine",
-    "\\UbiGame_Blank\\Source\\GameEngine\\EntitySystem",
-    "\\UbiGame_Blank\\Source\\GameEngine\\EntitySystem\\Components"
+    "\\UbiGame_Blank\\Source\\GameEngine\\Util",
+    "\\UbiGame_FlappBird",
+    "\\UbiGame_FlappBird\\Source",
+    "\\UbiGame_FlappBird\\Source\\Game",
+    "\\UbiGame_FlappBird\\Source\\Game\\GameComponents",
+    "\\UbiGame_FlappBird\\Source\\Game\\GameEntities"
   ],
   "SelectedNode": "\\UbiGame_Blank\\UbiGame.sln",
   "PreviewInSolutionExplorer": false
